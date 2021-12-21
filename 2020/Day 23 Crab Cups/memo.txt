@@ -1,0 +1,3 @@
+solve1.pyの手法では遅すぎるため線形リスト＆マップによる検索高速化を行ったCrabCupsを作成。
+テストのためpart 1をCrabCupsを用いて解いたのがsolve1-2.pyである。
+
